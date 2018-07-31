@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bar Scaner realtime</string>
+
+    <!--Text for permission-->
+    <string name="camera_title_perm">Внимание!!!</string>
+    <string name="camera_manual_select_perm"> Это разрешение необходимо для доступа к Камере из приложения</string>
+    <string name="camera_manual_settings_perm"> Если вы отклоняете разрешение, вы не можете использовать эту службу.\n\n
+        Пожалуйста, включите разрешения в [Setting]> [Permission] </string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
